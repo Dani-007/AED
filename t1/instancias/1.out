@@ -1,0 +1,14 @@
+
+Testando palindromo()
+
+"1" eh palindromo
+"77" eh palindromo
+"505" eh palindromo
+"1111" eh palindromo
+"2112" eh palindromo
+"369963" eh palindromo
+"10101" eh palindromo
+"1001001" eh palindromo
+"12" nao eh palindromo
+"12451" nao eh palindromo
+"100011" nao eh palindromo
